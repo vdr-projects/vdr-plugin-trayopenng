@@ -17,7 +17,6 @@
 
 static const char *VERSION        = "0.5.1";
 static const char *HIDEMAINMENUEENTRY = "HideMainMenuEntry";
-static const char *MAINMENUENTRY  = trNOOP("Trayopenng");
 static const char *DESCRIPTION    = trNOOP("Open and close tray of CDROM");
 
 #define MAX_CMD_LEN 1024

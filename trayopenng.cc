@@ -12,6 +12,8 @@
 #include <stdlib.h>
 #include "trayopenng.h"
 
+static const char *MAINMENUENTRY  = trNOOP("Trayopenng");
+
 cPluginTrayopenng::cPluginTrayopenng(void)
 {
     strcpy(mDevice, "/dev/dvd");
