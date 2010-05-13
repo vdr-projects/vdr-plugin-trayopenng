@@ -15,7 +15,7 @@
 #include <vdr/status.h>
 #include "setup.h"
 
-static const char *VERSION        = "0.5.0";
+static const char *VERSION        = "0.5.1";
 static const char *HIDEMAINMENUEENTRY = "HideMainMenuEntry";
 static const char *MAINMENUENTRY  = trNOOP("Trayopenng");
 static const char *DESCRIPTION    = trNOOP("Open and close tray of CDROM");
