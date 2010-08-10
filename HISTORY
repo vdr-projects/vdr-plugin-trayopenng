@@ -5,3 +5,7 @@ VDR Plugin 'trayopenng' Revision History
 
 - Initial revision.
 
+2010-07-10: Version 0.5.2
+
+- Fix a makefile
+- Italian translation (Thanks to Diego Pierotto).
