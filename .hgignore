@@ -1,0 +1,10 @@
+syntax: glob
+*~
+*.orig
+*.o
+*.so
+*.a
+.dependencies
+po/*.mo
+po/*.pot
+push.sh
