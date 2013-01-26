@@ -9,3 +9,9 @@ VDR Plugin 'trayopenng' Revision History
 
 - Fix a makefile
 - Italian translation (Thanks to Diego Pierotto).
+
+2013-01-26: Version 1.0.0
+
+- Support for new make system of VDR 1.7.35. The new make file is now the 
+  default. For compiling on older VDR Versions change the links of Makefile,
+  Makefile.inc and detector/Makefile to the *-1.6 versions.
