@@ -4,6 +4,7 @@ syntax: glob
 *.o
 *.so
 *.a
+*.tgz
 .dependencies
 po/*.mo
 po/*.pot
